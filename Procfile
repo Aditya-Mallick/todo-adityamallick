@@ -1,1 +1,1 @@
-web: guicorn ToDoList.wsgi --log-file -
+web: guicorn ToDoList.wsgi
